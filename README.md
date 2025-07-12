@@ -20,7 +20,7 @@ A simple and responsive Weather Web Application built using **HTML**, **CSS**, a
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **OpenWeatherMap API**
 
 ---
